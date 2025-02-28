@@ -49,3 +49,11 @@ Prompt engineering is about crafting questions or statements to get the best pos
 
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+Example:Tell me about foods.
+Improved prompt:Explain the difference between cabohydrates and proteins, including their importance and examples of each category.
+Explanation of improvement
+Clear:The improved prompt specifies categories of foods making it clear.
+Specific:  It asks for a comparison which directs the response to focus on specific differences,importance and their examples instead of broad overview of foods.
+Concise:The prompt is direct and focused making it easier for the responder to understand what is required.
+Improved prompt is more effectie because it guides the person responder to provide relevant information
+
